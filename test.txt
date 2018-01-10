@@ -1,0 +1,32 @@
+
+Star Wars: Die letzten Jedi 3D		|Cineplex Hamm	|14:30 Uhr	|Fantasy	|25.12.2017
+Star Wars: Die letzten Jedi 3D		|Cineplex Hamm	|16:00 Uhr	|Fantasy	|25.12.2017
+Star Wars: Die letzten Jedi 3D		|Cineplex Hamm	|16:00 Uhr	|Fantasy	|25.12.2017
+Star Wars: Die letzten Jedi 3D		|Cineplex Hamm	|19:30 Uhr	|Fantasy	|25.12.2017
+Star Wars: Die letzten Jedi 3D		|Cineplex Hamm	|22:20 Uhr	|Fantasy	|25.12.2017
+Star Wars: Die letzten Jedi 3D		|Cineplex Hamm	|14:30 Uhr	|Fantasy	|26.12.2017
+Star Wars: Die letzten Jedi 3D		|Cineplex Hamm	|16:00 Uhr	|Fantasy	|26.12.2017
+Star Wars: Die letzten Jedi 3D		|Cineplex Hamm	|19:30 Uhr	|Fantasy	|26.12.2017
+Star Wars: Die letzten Jedi 3D		|Cineplex Hamm	|22:20 Uhr	|Fantasy	|27.12.2017
+Star Wars: Die letzten Jedi 3D		|Cineplex Hamm	|14:30 Uhr	|Fantasy	|27.12.2017
+Star Wars: Die letzten Jedi 3D		|Cineplex Hamm	|16:00 Uhr	|Fantasy	|27.12.2017
+Star Wars: Die letzten Jedi 3D		|Cineplex Hamm	|19:30 Uhr	|Fantasy	|27.12.2017
+Star Wars: Die letzten Jedi 3D		|Cineplex Hamm	|22:20 Uhr	|Fantasy	|27.12.2017
+Star Wars: Die letzten Jedi 3D		|Cineplex Hamm	|14:30 Uhr	|Fantasy	|28.12.2017
+Star Wars: Die letzten Jedi 3D		|Cineplex Hamm	|16:00 Uhr	|Fantasy	|28.12.2017
+Star Wars: Die letzten Jedi 3D		|Cineplex Hamm	|19:30 Uhr	|Fantasy	|28.12.2017
+Star Wars: Die letzten Jedi 3D		|Cineplex Hamm	|22:20 Uhr	|Fantasy	|28.12.2017
+Jumanji: Willkommen im Dschungel 3D	|Cineplex Hamm	|17:30 Uhr	|Comedy		|25.12.2017
+Jumanji: Willkommen im Dschungel 3D	|Cineplex Hamm	|20:10 Uhr	|Comedy		|25.12.2017
+Jumanji: Willkommen im Dschungel 3D	|Cineplex Hamm	|23:00 Uhr	|Comedy		|25.12.2017
+Jumanji: Willkommen im Dschungel 3D	|Cineplex Hamm	|17:30 Uhr	|Comedy		|26.12.2017
+Jumanji: Willkommen im Dschungel 3D	|Cineplex Hamm	|20:10 Uhr	|Comedy		|26.12.2017
+Jumanji: Willkommen im Dschungel 3D	|Cineplex Hamm	|23:00 Uhr	|Comedy		|26.12.2017
+Jumanji: Willkommen im Dschungel 3D	|Cineplex Hamm	|17:30 Uhr	|Comedy		|27.12.2017
+Jumanji: Willkommen im Dschungel 3D	|Cineplex Hamm	|20:10 Uhr	|Comedy		|27.12.2017
+Jumanji: Willkommen im Dschungel 3D	|Cineplex Hamm	|23:00 Uhr	|Comedy		|27.12.2017
+Jumanji: Willkommen im Dschungel 3D	|Cineplex Hamm	|17:30 Uhr	|Comedy		|28.12.2017
+Jumanji: Willkommen im Dschungel 3D	|Cineplex Hamm	|20:10 Uhr	|Comedy		|28.12.2017
+Jumanji: Willkommen im Dschungel 3D	|Cineplex Hamm	|23:00 Uhr	|Comedy		|28.12.2017
+
+
